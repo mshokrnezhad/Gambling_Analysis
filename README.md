@@ -1,4 +1,4 @@
-# Screenshot_to_text
+# Screenshot_to_Text
 To write which part of the screen you need into a text file
 
 Prerequisites?
